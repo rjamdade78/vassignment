@@ -159,7 +159,7 @@
 
 .ad-head h4 {
     color: #00252F;
-    font-family: Roboto;
+    
     font-size: 18px;
     font-style: normal;
     font-weight: 100;
@@ -205,6 +205,8 @@ height: 16px; */
 .admission {
     border-radius: 6px 6px 8px 8px;
     background: #F8F8F8;
+    padding-top: 13px;
+    padding-bottom: 20px;
 }
 
 .path-icon i {
@@ -265,5 +267,4 @@ height: 16px; */
     border-radius: 50%;
     padding: 10px;
     background-color: #ede7e7;
-    /* box-shadow:; */
 }
